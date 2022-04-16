@@ -1,5 +1,6 @@
 #include "main.h"
-
+#include <limits.h>
+#include <stdio.h>
 /**
  * _printf - prints formatted data to stdout
  * @format: string that contains the format to print
